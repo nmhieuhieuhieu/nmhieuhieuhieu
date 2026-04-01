@@ -20,17 +20,10 @@ I am a passionate AI Engineering student at VNU-UET (K67), focusing on Natural L
 - 🌱 Exploring the intersection of Computer Vision and NLP (Multimodal AI).
 
 ---
-
-### 📊 GitHub Stats
-![Hieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmhieuhieuhieu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmhieuhieuhieu&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-profile-link)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/your-profile-link)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/https://www.facebook.com/nm.hieu.300272?)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:oanhnguyen199720@gmail.com)
 
 ---
 *“Language is the most powerful tool of humanity, and I'm teaching machines how to use it.”*
